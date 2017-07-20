@@ -14,6 +14,7 @@ import (
 var midfielders = make([]string, 0)
 var goalkeepers = make([]string, 0)
 var strikers = make([]string, 0)
+var defenders = make([]string, 0)
 var all = make([]string, 0)
 
 func main() {
@@ -22,21 +23,34 @@ func main() {
 
 	teams, _ := strconv.Atoi(args[0])
 	keepers, _ := strconv.Atoi(args[1])
-	mids, _ := strconv.Atoi(args[2])
-	fws, _ := strconv.Atoi(args[3])
-	randomPlayers, _ := strconv.Atoi(args[4])
+	dfs, _ := strconv.Atoi(args[2])
+	mids, _ := strconv.Atoi(args[3])
+	fws, _ := strconv.Atoi(args[4])
+	randomPlayers, _ := strconv.Atoi(args[5])
 
 	// setup reader
-	csvIn, err := os.Open("./premier_league_squads.csv")
+	csvIn, err := os.Open("./playerlist.csv")
 	if err != nil {
 		log.Fatal(err)
 	}
 	r := csv.NewReader(csvIn)
 
 	// handle header
-	_, err = r.Read()
+	header, err := r.Read()
 	if err != nil {
 		log.Fatal(err)
+	}
+	positionIndex := 0
+	nameIndex := 0
+
+	for i := 0; i < len(header); i++ {
+		if header[i] == "position" {
+			positionIndex = i
+		}
+
+		if header[i] == "name" {
+			nameIndex = i
+		}
 	}
 	for {
 		rec, err := r.Read()
@@ -47,21 +61,25 @@ func main() {
 			log.Fatal(err)
 		}
 
-		if rec[1] == "Midfielder" {
-			midfielders = append(midfielders, rec[3])
+		if rec[positionIndex] == "Midfielder" {
+			midfielders = append(midfielders, rec[nameIndex])
 		}
-		if rec[1] == "Forward" {
-			strikers = append(strikers, rec[3])
+		if rec[positionIndex] == "Forward" {
+			strikers = append(strikers, rec[nameIndex])
 		}
-		if rec[1] == "Goalkeeper" {
-			goalkeepers = append(goalkeepers, rec[3])
+		if rec[positionIndex] == "Goalkeeper" {
+			goalkeepers = append(goalkeepers, rec[nameIndex])
 		}
-		all = append(all, rec[3])
+		if rec[positionIndex] == "Defender" {
+			defenders = append(defenders, rec[nameIndex])
+		}
+
+		all = append(all, rec[nameIndex])
 
 	}
 
 	for i := 0; i < teams; i++ {
-		team := generateTeam(fws, mids, keepers, randomPlayers)
+		team := generateTeam(fws, mids, dfs, keepers, randomPlayers)
 
 		fmt.Printf("Team " + strconv.Itoa(i+1) + "\n")
 		for j := 0; j < len(team); j++ {
@@ -71,7 +89,7 @@ func main() {
 	}
 }
 
-func generateTeam(fws int, mids int, keepers int, randomPlayers int) []string {
+func generateTeam(fws int, mids int, dfs int, keepers int, randomPlayers int) []string {
 
 	rand.Seed(time.Now().Unix())
 
@@ -87,6 +105,12 @@ func generateTeam(fws int, mids int, keepers int, randomPlayers int) []string {
 		index := rand.Intn(len(midfielders))
 		team = append(team, midfielders[index])
 		midfielders = append(midfielders[:index], midfielders[index+1:]...)
+	}
+
+	for i := 0; i < dfs; i++ {
+		index := rand.Intn(len(defenders))
+		team = append(team, defenders[index])
+		defenders = append(defenders[:index], defenders[index+1:]...)
 	}
 
 	for i := 0; i < keepers; i++ {
