@@ -1,7 +1,5 @@
 id,name,position,team
 10420,David Ospina,Goalkeeper,Arsenal
-2651,Petr Cech,Goalkeeper,Arsenal
-10422,Matt Macey,Goalkeeper,Arsenal
 5368,Sead Kolasinac,Defender,Arsenal
 4546,Mathieu Debuchy,Defender,Arsenal
 3046,Kieran Gibbs,Defender,Arsenal
@@ -14,57 +12,35 @@ id,name,position,team
 4620,Calum Chambers,Defender,Arsenal
 4474,Héctor Bellerín,Defender,Arsenal
 4248,Carl Jenkinson,Defender,Arsenal
-21627,Cohen Bramall,Defender,Arsenal
-3548,Aaron Ramsey,Midfielder,Arsenal
 3547,Jack Wilshere,Midfielder,Arsenal
-4714,Mesut Özil,Midfielder,Arsenal
 4252,Alex Oxlade-Chamberlain,Midfielder,Arsenal
 4717,Alex Iwobi,Midfielder,Arsenal
 4477,Santiago Cazorla,Midfielder,Arsenal
 12136,Granit Xhaka,Midfielder,Arsenal
-13123,Jeff Reine-Adelaide,Midfielder,Arsenal
 3549,Francis Coquelin,Midfielder,Arsenal
 5239,Mohamed Elneny,Midfielder,Arsenal
-10428,Ainsley Maitland-Niles,Midfielder,Arsenal
-13121,Ben Sheaf,Midfielder,Arsenal
-10426,Krystian Bielik,Midfielder,Arsenal
-14446,Joe Willock,Midfielder,Arsenal
-4973,Alexis Sánchez,Forward,Arsenal
-7081,Lucas Pérez,Forward,Arsenal
-4481,Olivier Giroud,Forward,Arsenal
 2839,Theo Walcott,Forward,Arsenal
 3452,Danny Welbeck,Forward,Arsenal
 4482,Chuba Akpom,Forward,Arsenal
-14457,Josh Da Silva,Forward,Arsenal
 4254,Joel Campbell,Forward,Arsenal
 6899,Alexandre Lacazette,Forward,Arsenal
-14456,Donyell Malen,Forward,Arsenal
-14450,Reiss Nelson,Forward,Arsenal
-14451,Eddie Nketiah,Forward,Arsenal
 2537,Asmir Begovic,Goalkeeper,AFC Bournemouth
 4601,Artur Boruc,Goalkeeper,AFC Bournemouth
-13703,Aaron Ramsdale,Goalkeeper,AFC Bournemouth
-3182,Adam Federici,Goalkeeper,AFC Bournemouth
 4499,Nathan Aké,Defender,AFC Bournemouth
 8044,Simon Francis,Defender,AFC Bournemouth
 8045,Steve Cook,Defender,AFC Bournemouth
 3242,Charlie Daniels,Defender,AFC Bournemouth
 9030,Brad Smith,Defender,AFC Bournemouth
 3512,Adam Smith,Defender,AFC Bournemouth
-3471,Marc Wilson,Defender,AFC Bournemouth
 8900,Tyrone Mings,Defender,AFC Bournemouth
-9869,Baily Cargill,Defender,AFC Bournemouth
-2678,Rhoys Wiggins,Defender,AFC Bournemouth
 3390,Dan Gosling,Midfielder,AFC Bournemouth
 2338,Andrew Surman,Midfielder,AFC Bournemouth
 8049,Marc Pugh,Midfielder,AFC Bournemouth
 8050,Harry Arter,Midfielder,AFC Bournemouth
 10766,Lewis Cook,Midfielder,AFC Bournemouth
 3766,Junior Stanislas,Midfielder,AFC Bournemouth
-10734,Emerson Hyndman,Midfielder,AFC Bournemouth
 8052,Ryan Fraser,Midfielder,AFC Bournemouth
 4527,Jordon Ibe,Midfielder,AFC Bournemouth
-7985,Connor Mahoney,Midfielder,AFC Bournemouth
 1526,Jermain Defoe,Forward,AFC Bournemouth
 4040,Benik Afobe,Forward,AFC Bournemouth
 12815,Max Gradel,Forward,AFC Bournemouth
@@ -77,7 +53,6 @@ id,name,position,team
 5721,Gaëtan Bong,Defender,Brighton and Hove Albion
 13229,Uwe Hünemeier,Defender,Brighton and Hove Albion
 8163,Lewis Dunk,Defender,Brighton and Hove Albion
-9634,Connor Goldson,Defender,Brighton and Hove Albion
 3601,Shane Duffy,Defender,Brighton and Hove Albion
 2464,Liam Rosenior,Defender,Brighton and Hove Albion
 5428,Markus Suttner,Defender,Brighton and Hove Albion
@@ -88,24 +63,17 @@ id,name,position,team
 8982,Anthony Knockaert,Midfielder,Brighton and Hove Albion
 2007,Steve Sidwell,Midfielder,Brighton and Hove Albion
 8171,Solly March,Midfielder,Brighton and Hove Albion
-4284,Rohan Ince,Midfielder,Brighton and Hove Albion
-3173,Kazenga Lua Lua,Midfielder,Brighton and Hove Albion
 9581,Jamie Murphy,Midfielder,Brighton and Hove Albion
 13231,Henrik Rorvik Bjørdal,Midfielder,Brighton and Hove Albion
-23556,Mathias Normann,Midfielder,Brighton and Hove Albion
 4711,Sam Baldock,Forward,Brighton and Hove Albion
 13234,Tomer Hemed,Forward,Brighton and Hove Albion
 4772,Glenn Murray,Forward,Brighton and Hove Albion
-13235,Richard Towell,Forward,Brighton and Hove Albion
 4674,Isaiah Brown,Forward,Brighton and Hove Albion
-2933,Tom Heaton,Goalkeeper,Burnley
 10079,Nick Pope,Goalkeeper,Burnley
 4487,Matthew Lowton,Defender,Burnley
 3909,Ben Mee,Defender,Burnley
 3999,Stephen Ward,Defender,Burnley
 8143,James Tarkowski,Defender,Burnley
-3837,Kevin Long,Defender,Burnley
-8234,Tom Anderson,Defender,Burnley
 8691,Charlie Taylor,Defender,Burnley
 2517,Phil Bardsley,Defender,Burnley
 2359,Dean Marney,Midfielder,Burnley
@@ -113,39 +81,25 @@ id,name,position,team
 8586,Jeff Hendrick,Midfielder,Burnley
 5345,Steven Defour,Midfielder,Burnley
 4489,Ashley Westwood,Midfielder,Burnley
-10435,Fredrik Ulvestad,Midfielder,Burnley
 6210,Johann Berg Gudmundsson,Midfielder,Burnley
 8242,Scott Arfield,Midfielder,Burnley
 2889,Jack Cork,Midfielder,Burnley
 9060,Andre Gray,Forward,Burnley
 4007,Sam Vokes,Forward,Burnley
 8246,Ashley Barnes,Forward,Burnley
-10559,Daniel Agyei,Forward,Burnley
 2047,Jonathan Walters,Forward,Burnley
-10272,Chris Long,Forward,Burnley
 10466,Willy Caballero,Goalkeeper,Chelsea
-4911,Thibaut Courtois,Goalkeeper,Chelsea
-12265,Eduardo,Goalkeeper,Chelsea
-23695,Marcin Bulka,Goalkeeper,Chelsea
 4093,Marcos Alonso,Defender,Chelsea
 2620,Gary Cahill,Defender,Chelsea
 4496,César Azpilicueta,Defender,Chelsea
 4100,David Luiz,Defender,Chelsea
 16801,Antonio Rüdiger,Defender,Chelsea
 4495,Andreas Christensen,Defender,Chelsea
-13281,Fikayo Tomori,Defender,Chelsea
-11146,Jake Clarke-Salter,Defender,Chelsea
-5174,Cristián Cuevas,Defender,Chelsea
 2417,Cesc Fàbregas,Midfielder,Chelsea
 13492,N'Golo Kanté,Midfielder,Chelsea
-4503,Eden Hazard,Midfielder,Chelsea
 3983,Victor Moses,Midfielder,Chelsea
 4748,Willian,Midfielder,Chelsea
 11260,Tiemoué Bakayoko,Midfielder,Chelsea
-11147,Charly Musonda,Midfielder,Chelsea
-10441,Jeremie Boga,Midfielder,Chelsea
-14578,Kyle Scott,Midfielder,Chelsea
-4749,Lewis Baker,Midfielder,Chelsea
 13285,Kenedy,Forward,Chelsea
 4972,Pedro,Forward,Chelsea
 4572,Loïc Remy,Forward,Chelsea
@@ -154,7 +108,6 @@ id,name,position,team
 5804,Álvaro Morata,Forward,Chelsea
 2664,Julian Speroni,Goalkeeper,Crystal Palace
 2569,Wayne Hennessey,Goalkeeper,Crystal Palace
-14144,Kleton Perntreou,Goalkeeper,Crystal Palace
 3929,Joel Ward,Defender,Crystal Palace
 3362,Patrick van Aanholt,Defender,Crystal Palace
 3517,James Tomkins,Defender,Crystal Palace
@@ -163,32 +116,20 @@ id,name,position,team
 1911,Damien Delaney,Defender,Crystal Palace
 8980,Jeffrey Schlupp,Defender,Crystal Palace
 3644,Martin Kelly,Defender,Crystal Palace
-4878,Jairo Riedewald,Defender,Crystal Palace
 4341,Yohan Cabaye,Midfielder,Crystal Palace
 3724,Andros Townsend,Midfielder,Crystal Palace
 4539,Wilfried Zaha,Midfielder,Crystal Palace
 3830,Lee Chung-yong,Midfielder,Crystal Palace
 4224,James McArthur,Midfielder,Crystal Palace
-4767,Jonathan Williams,Midfielder,Crystal Palace
-10191,Sullay Kaikai,Midfielder,Crystal Palace
-10004,Bakary Sako,Midfielder,Crystal Palace
 5859,Luka Milivojevic,Midfielder,Crystal Palace
 4084,Jason Puncheon,Midfielder,Crystal Palace
-3333,Jordon Mutch,Midfielder,Crystal Palace
 5179,Ruben Loftus-Cheek,Midfielder,Crystal Palace
-4492,Christian Benteke,Forward,Crystal Palace
-4396,Connor Wickham,Forward,Crystal Palace
-4640,Jordan Pickford,Goalkeeper,Everton
 4696,Joel Robles,Goalkeeper,Everton
-4779,Maarten Stekelenburg,Goalkeeper,Everton
-14619,Mateusz Hewelt,Goalkeeper,Everton
 3030,Leighton Baines,Defender,Everton
 4403,Ashley Williams,Defender,Everton
 3222,Phil Jagielka,Defender,Everton
-3600,Seamus Coleman,Defender,Everton
 13387,Ramiro Funes Mori,Defender,Everton
 10564,Mason Holgate,Defender,Everton
-10449,Jonjoe Kenny,Defender,Everton
 4333,Michael Keane,Defender,Everton
 13716,Cuco Martina,Defender,Everton
 4886,Davy Klaassen,Midfielder,Everton
@@ -204,9 +145,6 @@ id,name,position,team
 4763,Yannick Bolasie,Forward,Everton
 9576,Dominic Calvert-Lewin,Forward,Everton
 13278,Ademola Lookman,Forward,Everton
-11074,Sandro Ramírez,Forward,Everton
-2064,Wayne Rooney,Forward,Everton
-13390,Oumar Niasse,Forward,Everton
 12444,Jonas Lössl,Goalkeeper,Huddersfield Town
 9293,Joel Coleman,Goalkeeper,Huddersfield Town
 24346,Ryan Schofield,Goalkeeper,Huddersfield Town
@@ -267,10 +205,6 @@ id,name,position,team
 5561,Tom Lawrence,Forward,Leicester City
 13554,Kelechi Iheanacho,Forward,Leicester City
 19600,Loris Karius,Goalkeeper,Liverpool
-4179,Simon Mignolet,Goalkeeper,Liverpool
-4522,Danny Ward,Goalkeeper,Liverpool
-3348,Adam Bogdan,Goalkeeper,Liverpool
-19909,Kamil Grabara,Goalkeeper,Liverpool
 4604,Nathaniel Clyne,Defender,Liverpool
 4796,Mamadou Sakho,Defender,Liverpool
 4813,Dejan Lovren,Defender,Liverpool
@@ -280,41 +214,20 @@ id,name,position,team
 7219,Alberto Moreno,Defender,Liverpool
 5375,Joel Matip,Defender,Liverpool
 4129,Jon Flanagan,Defender,Liverpool
-10464,Jordan Williams,Defender,Liverpool
-14732,Trent Alexander-Arnold,Defender,Liverpool
 10458,Andrew Robertson,Defender,Liverpool
 7114,Georginio Wijnaldum,Midfielder,Liverpool
-4525,Philippe Coutinho,Midfielder,Liverpool
 3712,Jordan Henderson,Midfielder,Liverpool
 13985,Marko Grujic,Midfielder,Liverpool
-6519,Sadio Mané,Midfielder,Liverpool
 4618,Adam Lallana,Midfielder,Liverpool
 5001,Emre Can,Midfielder,Liverpool
-13509,Ryan Kent,Midfielder,Liverpool
 5078,Lazar Markovic,Midfielder,Liverpool
-14753,Ovie Ejaria,Midfielder,Liverpool
-10543,Sheyi Ojo,Midfielder,Liverpool
-14758,Ben Woodburn,Midfielder,Liverpool
-13961,Harry Wilson,Midfielder,Liverpool
-14743,Paulinho,Midfielder,Liverpool
-9032,Cameron Brannagan,Midfielder,Liverpool
-13984,Allan,Midfielder,Liverpool
-13510,Pedro Chirivella,Midfielder,Liverpool
-5178,Mohamed Salah,Forward,Liverpool
 10443,Dominic Solanke,Forward,Liverpool
-13511,Roberto Firmino,Forward,Liverpool
-3154,Daniel Sturridge,Forward,Liverpool
 10465,Divock Origi,Forward,Liverpool
-8245,Danny Ings,Forward,Liverpool
-14742,Rhian Brewster,Forward,Liverpool
 12707,Ederson,Goalkeeper,Manchester City
 5810,Claudio Bravo,Goalkeeper,Manchester City
-19911,Arijanet Muric,Goalkeeper,Manchester City
-14766,Daniel Grimshaw,Goalkeeper,Manchester City
 3653,Vincent Kompany,Defender,Manchester City
 5334,Eliaquim Mangala,Defender,Manchester City
 4505,John Stones,Defender,Manchester City
-11002,Jason Denayer,Defender,Manchester City
 6058,Nicolás Otamendi,Defender,Manchester City
 13987,Pablo Maffeo,Defender,Manchester City
 13549,Tosin Adarabioyo,Defender,Manchester City
@@ -323,27 +236,16 @@ id,name,position,team
 5575,Benjamin Mendy,Defender,Manchester City
 14776,Joel Latibeaudiere,Defender,Manchester City
 14771,Demeaco Duhaney,Defender,Manchester City
-14802,Tyreke Wilson,Defender,Manchester City
 5067,Bernardo Silva,Midfielder,Manchester City
 5101,Ilkay Gündogan,Midfielder,Manchester City
 3546,Samir Nasri,Midfielder,Manchester City
-4288,Kevin De Bruyne,Midfielder,Manchester City
 3799,Fabian Delph,Midfielder,Manchester City
 5384,Leroy Sané,Midfielder,Manchester City
 4145,David Silva,Midfielder,Manchester City
 4804,Fernandinho,Midfielder,Manchester City
-8710,Patrick Roberts,Midfielder,Manchester City
-19620,Oleksandr Zinchenko,Midfielder,Manchester City
 4148,Yaya Touré,Midfielder,Manchester City
-14800,Brahim Diaz,Midfielder,Manchester City
-14801,Jadon Sancho,Midfielder,Manchester City
 4316,Raheem Sterling,Forward,Manchester City
-4328,Sergio Agüero,Forward,Manchester City
 4838,Wilfried Bony,Forward,Manchester City
-19680,Gabriel Jesus,Forward,Manchester City
-14805,Phil Foden,Forward,Manchester City
-13584,Kieran O'Hara,Goalkeeper,Manchester United
-4330,David de Gea,Goalkeeper,Manchester United
 13555,Sergio Romero,Goalkeeper,Manchester United
 13556,Joel Pereira,Goalkeeper,Manchester United
 5066,Victor Lindelöf,Defender,Manchester United
@@ -355,12 +257,9 @@ id,name,position,team
 4608,Luke Shaw,Defender,Manchester United
 13561,Timothy Fosu-Mensah,Defender,Manchester United
 3285,Antonio Valencia,Defender,Manchester United
-14822,Demetri Mitchell,Defender,Manchester United
 12854,Matteo Darmian,Defender,Manchester United
 13559,Axel Tuanzebe,Defender,Manchester United
-4809,Guillermo Varela,Defender,Manchester United
 13560,Cameron Borthwick-Jackson,Defender,Manchester United
-3920,Paul Pogba,Midfielder,Manchester United
 4287,Juan Mata,Midfielder,Manchester United
 4337,Jesse Lingard,Midfielder,Manchester United
 1634,Michael Carrick,Midfielder,Manchester United
@@ -368,15 +267,9 @@ id,name,position,team
 10475,Ander Herrera,Midfielder,Manchester United
 5102,Henrikh Mkhitaryan,Midfielder,Manchester United
 3604,Marouane Fellaini,Midfielder,Manchester United
-14824,Scott McTominay,Midfielder,Manchester United
-14821,Matthew Willock,Midfielder,Manchester United
-14830,Angel Gomes,Midfielder,Manchester United
-14834,Zachary Dearnley,Midfielder,Manchester United
 10476,Andreas Pereira,Midfielder,Manchester United
 3861,Nemanja Matic,Midfielder,Manchester United
 11272,Anthony Martial,Forward,Manchester United
-13565,Marcus Rashford,Forward,Manchester United
-4290,Romelu Lukaku,Forward,Manchester United
 3169,Tim Krul,Goalkeeper,Newcastle United
 2214,Robert Elliot,Goalkeeper,Newcastle United
 9251,Karl Darlow,Goalkeeper,Newcastle United
@@ -497,10 +390,7 @@ id,name,position,team
 5551,Fernando Llorente,Forward,Swansea City
 8107,Oliver McBurnie,Forward,Swansea City
 13286,Tammy Abraham,Forward,Swansea City
-4664,Hugo Lloris,Goalkeeper,Tottenham Hotspur
 4398,Michel Vorm,Goalkeeper,Tottenham Hotspur
-15111,Alfie Whiteman,Goalkeeper,Tottenham Hotspur
-15114,Brandon Austin,Goalkeeper,Tottenham Hotspur
 3507,Danny Rose,Defender,Tottenham Hotspur
 4916,Toby Alderweireld,Defender,Tottenham Hotspur
 4666,Jan Vertonghen,Defender,Tottenham Hotspur
@@ -508,28 +398,14 @@ id,name,position,team
 13813,Kevin Wimmer,Defender,Tottenham Hotspur
 4408,Ben Davies,Defender,Tottenham Hotspur
 13815,Kyle Walker-Peters,Defender,Tottenham Hotspur
-13814,Cameron Carter-Vickers,Defender,Tottenham Hotspur
-15117,Jaden Brown,Defender,Tottenham Hotspur
-15122,Jonathan Dinzeyi,Defender,Tottenham Hotspur
-4999,Son Heung-Min,Midfielder,Tottenham Hotspur
 4842,Erik Lamela,Midfielder,Tottenham Hotspur
 4816,Victor Wanyama,Midfielder,Tottenham Hotspur
 15938,Georges-Kévin Nkoudou,Midfielder,Tottenham Hotspur
 4112,Eric Dier,Midfielder,Tottenham Hotspur
 4549,Moussa Sissoko,Midfielder,Tottenham Hotspur
 4123,Mousa Dembélé,Midfielder,Tottenham Hotspur
-9167,Dele Alli,Midfielder,Tottenham Hotspur
-4845,Christian Eriksen,Midfielder,Tottenham Hotspur
 7488,Harry Winks,Midfielder,Tottenham Hotspur
-15128,Luke Amos,Midfielder,Tottenham Hotspur
-16549,Will Miller,Midfielder,Tottenham Hotspur
-15139,Marcus Edwards,Midfielder,Tottenham Hotspur
-15146,Anthony Georgiou,Midfielder,Tottenham Hotspur
-15140,Tashan Oakley-Boothe,Midfielder,Tottenham Hotspur
-15137,Kazaiah Sterling,Forward,Tottenham Hotspur
 15481,Vincent Janssen,Forward,Tottenham Hotspur
-3960,Harry Kane,Forward,Tottenham Hotspur
-15142,Samuel Shashoua,Forward,Tottenham Hotspur
 9762,Daniel Bachmann,Goalkeeper,Watford
 3719,Heurelho Gomes,Goalkeeper,Watford
 4319,Costel Pantilimon,Goalkeeper,Watford
